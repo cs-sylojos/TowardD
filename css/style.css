@@ -75,3 +75,35 @@ body {
     height: 240px;
     width: 300px;
 }
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+    margin: 30px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.info {
+    max-width: 160px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.info img {
+    border: 2px solid #3882F6;
+    border-radius: 6px;
+    width: 160px;
+    height: 160px;
+}
+
+.info-text {
+    font-size: 18px;
+    color: #5c5c5c;
+}
