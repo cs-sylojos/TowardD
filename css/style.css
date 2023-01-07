@@ -107,3 +107,26 @@ body {
     font-size: 18px;
     color: #5c5c5c;
 }
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    width: 750px;
+    margin: 80px 0 80px 0;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.author {
+    text-align: right;
+    font-weight: 800;
+    font-size: 18px;
+}
