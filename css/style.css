@@ -130,3 +130,39 @@ body {
     font-weight: 800;
     font-size: 18px;
 }
+
+.action-container {
+    background-color: #3882F6;
+    width: 700px;
+    margin: 80px auto;
+    padding: 40px 100px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-header {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.action-text {
+    color: #F9FAF8;
+}
+
+.action-body {
+    font-size: 18px;
+}
+
+.button-container {
+    align-self: flex-end;
+}
+
+.sign-up-action {
+    border: 2px solid #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 6px;
+    padding: 6px 25px 6px 25px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
