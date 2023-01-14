@@ -71,9 +71,9 @@ body {
     align-items: flex-end;
 }
 
-.hero-image {
+.hero-image img {
     height: 240px;
-    width: 300px;
+    width: 400px;
 }
 
 .info-header {
@@ -120,7 +120,8 @@ body {
 }
 
 .quote-text {
-    font-size: 36px;
+    /*font-size: 36px;*/
+    font-size: 25px;
     color: #1F2937;
     font-style: italic;
 }
@@ -165,4 +166,8 @@ body {
     padding: 6px 25px 6px 25px;
     color: #F9FAF8;
     font-weight: 800;
+}
+
+button {
+    cursor: pointer;
 }
